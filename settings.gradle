@@ -1,0 +1,3 @@
+rootProject.name='Library App'
+include ':app'
+include ':libraryappitpaydar'
